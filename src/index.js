@@ -1,3 +1,8 @@
+/**
+ * Traversy Media
+ * Simple Frontend Pagination | React
+ * YouTube: https://youtu.be/IYCa1F-OWmk
+ */
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
